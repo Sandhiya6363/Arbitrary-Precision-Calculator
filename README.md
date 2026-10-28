@@ -74,5 +74,4 @@ Expected output:
 ## 👩‍💻 Author
 **Sandhiya Selvaraj**
 
-## 📄 License
-This project is available for educational purposes.
+
